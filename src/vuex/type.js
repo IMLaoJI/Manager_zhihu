@@ -1,0 +1,3 @@
+export const SHOW_SIDEBAR = 'HIDE_SIDEBAR';
+export const HIDE_SIDEBAR = 'HIDE_SIDEBAR';
+export const CHANGE_SIDEBAR = 'CHANGE_SIDEBAR';
